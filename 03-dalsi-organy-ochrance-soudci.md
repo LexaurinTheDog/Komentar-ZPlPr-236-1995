@@ -1135,6 +1135,11 @@ U výdajů na stravování (písm. f) a g)) zákon používá formu „náhrady 
 
 **Vztah odst. 1 a 2.** Odst. 2 na rozdíl od § 18 odst. 2 (soudci Ústavního soudu) neobsahuje slovo „namísto“. Předsedové a místopředsedové jsou přitom také soudci. Jde o **výkladovou otázku**. Rozumný výklad je, že odst. 2 jako zvláštní úprava nahrazuje odst. 1 v překrývajících se položkách (reprezentace, tuzemská doprava a stravování, ubytování, zahraniční stravné). Paušál za odbornou literaturu [§ 5 odst. 1 písm. l)], který odst. 2 nezahrnuje, je však v rámci 5,5% paušálu podle odst. 1 spojen s reprezentací, a jeho samostatné zachování by vyžadovalo rozdělit jednotný paušál. Správnější se proto jeví závěr, že vedení vrcholných soudů náleží jen náhrady podle odst. 2.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2868/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/02E382C6E2B907A6C1257B4F003320A7?openDocument) — 4. 4. 2013, kat. A
+  > „Čerpání dovolené soudcem není důvodem, pro který by mu mohla být krácena podle ustanovení § 35 ,odst. 3, věty první, zákona č. 236/1995 Sb., ve znění pozdějších předpisů, víceúčelová paušální ,náhrada výdajů na reprezentaci a na odbornou literaturu"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Soudce krajského soudu cestuje vlakem na celodenní školení do jiného města a žádá náhradu jízdného a stravného. Současně požaduje proplacení odborné publikace nad rámec paušálu.

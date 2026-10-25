@@ -311,6 +311,11 @@ Za období do 31. 12. 2025 se plat představitelů počítá z pevné základny 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2868/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/02E382C6E2B907A6C1257B4F003320A7?openDocument) — 4. 4. 2013, kat. A
+  > „Čerpání dovolené soudcem není důvodem, pro který by mu mohla být krácena podle ustanovení § 35 ,odst. 3, věty první, zákona č. 236/1995 Sb., ve znění pozdějších předpisů, víceúčelová paušální ,náhrada výdajů na reprezentaci a na odbornou literaturu"
+
 #### Pojem a funkce náhrad výdajů (odst. 1)
 
 Náhrady výdajů jsou **peněžitá plnění kompenzující výdaje spojené s výkonem funkce**; nejsou odměnou za výkon funkce (tou je plat). Odstavec 1 obsahuje **uzavřený katalog třinácti druhů výdajů** (písm. a) až l), včetně písm. ch)). Katalog sám nárok nezakládá – podobně jako § 2 jej podmiňuje výhradou „o nichž to stanoví tento zákon“. Jednotlivé hlavy (např. § 9, § 12) pak odkazují na konkrétní písmena a určují formu a výši náhrady. Proto je při aplikaci vždy nutné postupovat ve dvou krocích: (1) identifikovat druh výdaje podle § 5 odst. 1 a (2) ověřit, zda a v jaké formě jej zvláštní hlava dané osobě přiznává.

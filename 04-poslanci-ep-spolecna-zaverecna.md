@@ -150,6 +150,11 @@ Obě částky se snižují o 50 % v případech, kdy se nemocenské snižuje na 
 
 **Krácení (odst. 3).** Za dobu dočasného nevýkonu funkce se paušální náhrady krátí poměrně, u představitele i soudce. Zákon zde nerozlišuje důvod nevýkonu: krácení se uplatní i při pracovní neschopnosti, kdy plat (byť snížený) náleží. Výjimkou je prezident republiky, jemuž zvláštní víceúčelová paušální náhrada podle § 15 náleží i při dočasném nevýkonu funkce.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2868/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/02E382C6E2B907A6C1257B4F003320A7?openDocument) — 4. 4. 2013, kat. A
+  > „Čerpání dovolené soudcem není důvodem, pro který by mu mohla být krácena podle ustanovení § 35 ,odst. 3, věty první, zákona č. 236/1995 Sb., ve znění pozdějších předpisů, víceúčelová paušální ,náhrada výdajů na reprezentaci a na odbornou literaturu"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Senátor je jmenován ministrem a mandát si ponechá. Senát mu nadále vyplácí paušální náhrady podle § 9 a Úřad vlády náhrady člena vlády podle § 12.
